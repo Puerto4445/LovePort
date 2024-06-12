@@ -5,7 +5,6 @@ LovePort es una herramienta escrita en Python que permite escanear puertos abier
 ## Requisitos
 
 - Python 3.x
-- Privilegios de root (para escanear redes completas)
 - termcolor
 - argparse
 - sys
