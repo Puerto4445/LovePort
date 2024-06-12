@@ -15,7 +15,7 @@ LovePort es una herramienta escrita en Python que permite escanear puertos abier
 ## Instalación
 
 1. Clona el repositorio de GitHub:
-- git clone https://github.com/Puerto445/LovePort.git
+- git clone https://github.com/Puerto4445/LovePort.git
 
 2. Instalar los requisitos:
 - pip install -r requirements.txt
